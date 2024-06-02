@@ -8,6 +8,7 @@ Saviour -This project is a basic simple webpage developed with Next.js. It aims 
 - Tailwindcss
 
 ## Folder Structure
+```
 ├── public/
 │   ├── .well-known/
 │   │   └── walletconnect.txt
@@ -137,7 +138,7 @@ Saviour -This project is a basic simple webpage developed with Next.js. It aims 
 │   │   └── styles/
 │   │   │   ├── Home.module.css
 │   │   │   └── globals.css
-
+```
 
 ## Figma template/design
 
